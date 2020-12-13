@@ -61,6 +61,16 @@ Lettercount.com to test character count
 
 ![575](/assets/images/575.png)
 
+## Credits
+
+https://www.w3schools.com/
+
+https://developer.mozilla.org/en-US/
+
+https://htmlcheatsheet.com/js/
+
+https://stackoverflow.com/
+
 
 
 
