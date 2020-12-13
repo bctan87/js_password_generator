@@ -13,3 +13,4 @@ https://github.com/bctan87/bctan87.github.io
 ## Usage
 Please refer to the screencaps:
 
+![App](/assets/images/sc1.png)
